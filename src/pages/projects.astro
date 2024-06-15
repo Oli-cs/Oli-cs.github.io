@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import '../styles/site-style.css';
+---
+
+
+
+
+<Layout title="Projects">
+	<main>
+		<h1>My <span class="text-gradient">Projects</span></h1>
+		<ul role="list" class="link-card-grid">
+			<Card
+				href=""
+				title="Coming Soon..."
+				body=""
+			/>			
+			<Card
+				href="../index.html"
+				title="Homepage"
+				body="Go back home"
+			/>
+		</ul>
+	</main>
+</Layout>

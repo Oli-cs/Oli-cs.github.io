@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import '../styles/site-style.css';
+---
+
+
+
+
+<Layout title="Homepage">
+	<main>
+		<h1>Welcome to my <span class="text-gradient">Homepage</span></h1>
+		<p class="welcome-msg">
+			Feel free to take a look around! You can use the navigation links below to get started!<br />
+			
+		</p>
+		<ul role="list" class="link-card-grid">
+			<Card
+				href="./projects/index.html"
+				title="Projects"
+				body="See a catalogue of all my projects in date order."
+			/>			
+			<Card
+				href="./links/index.html"
+				title="Links"
+				body="Find me on other platforms!"
+			/>
+		</ul>
+	</main>
+</Layout>

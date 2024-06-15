@@ -1,0 +1,46 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import '../styles/site-style.css';
+---
+
+
+
+
+<Layout title="Links">
+	<main>
+		<h1>Find me on the <span class="text-gradient">Internet</span></h1>
+		<ul role="list" class="link-card-grid">
+			<Card
+				href="https://www.github.com/oli-cs"
+				title="GitHub"
+				body="See my projects on GitHub!"
+			/>
+            <Card
+				href="https://www.linkedin.com/in/oli-sharp-9394aa2ab/"
+				title="LinkedIn"
+				body="View my experience on LinkedIn!"
+			/>
+            <Card
+				href="https://devpost.com/oli-cs?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"
+				title="Devpost"
+				body="Find my hackathon entries on Devpost!"
+			/>
+            <Card
+				href="https://www.youtube.com/@olisharppiano"
+				title="YouTube"
+				body="Hear my piano playing on YouTube!"
+			/>
+            <Card
+				href="mailto:oli-cs@outlook.com"
+				title="Email"
+				body="Email me!"
+			/>			
+            <Card
+				href="../index.html"
+				title="Homepage"
+				body="Go back home"
+			/>
+		</ul>
+	</main>
+</Layout>

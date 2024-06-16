@@ -8,7 +8,17 @@ import '../styles/site-style.css';
 
 
 <Layout title="Projects">
+	<nav></nav>
 	<main>
+		<nav>
+			<ul role="list" class="navbar">
+				<a href="..">Home</a>
+				<a>Projects</a>
+				<a href="../about/index.html">About Me</a>
+				<a href="../links/index.html">Links</a>
+			</ul>
+		</nav>
+
 		<h1>My <span class="text-gradient">Projects</span></h1>
 		<ul role="list" class="link-card-grid">
 			<Card
@@ -16,11 +26,6 @@ import '../styles/site-style.css';
 				title="Coming Soon..."
 				body=""
 			/>			
-			<Card
-				href="../index.html"
-				title="Homepage"
-				body="Go back home"
-			/>
 		</ul>
 	</main>
 </Layout>

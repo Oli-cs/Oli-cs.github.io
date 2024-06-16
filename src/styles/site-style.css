@@ -24,7 +24,8 @@ h1 {
     margin-bottom: 1em;
 }
 .text-gradient {
-    background: -webkit-linear-gradient(#00FF00,#FFFFFF);
+    /*00FF00 to FFFFFF*/
+    background: -webkit-linear-gradient(#023020,#00FF00);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 400%;
@@ -32,9 +33,8 @@ h1 {
 }
 .welcome-msg {
     margin-bottom: 2rem;
-    accent-color: #00FF00;
     border: 1px solid rgba(var(--accent-light), 25%);
-    background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
+    background: -webkit-linear-gradient(#023020, #023020);
     padding: 1.5rem;
     border-radius: 8px;
 }
@@ -50,4 +50,13 @@ h1 {
     text-align: center;
     padding-right: 20px;
     
+}
+
+footer{
+    color:white;
+    font-size: 15px;
+    text-align: center;
+}
+footer a{
+    color:white;
 }

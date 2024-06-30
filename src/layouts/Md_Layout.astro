@@ -20,7 +20,9 @@ const { frontmatter } = Astro.props;
 			<slot />
 		</main>
 	</body>
-	<footer>This website is built using <a href="https://www.astro.build">Astro</a> and hosted on <a href="https://pages.github.com/">Github Pages</a></footer>
+	<footer>
+		This page was published on {frontmatter.pubDate} and last updated on {frontmatter.lastUpdated}
+	</footer>
 </html>
 <style is:global>
 	:root {

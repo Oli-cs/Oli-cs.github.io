@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Md_Layout.astro
 title: This Website
-originPage: ../projects/index.html
+originPage: ../../projects/index.html
 author: Oli
 pubDate: 2024-06-30
 ---

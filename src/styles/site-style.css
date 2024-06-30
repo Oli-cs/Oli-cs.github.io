@@ -26,6 +26,7 @@ h1 {
 .text-gradient {
     /*00FF00 to FFFFFF*/
     background: -webkit-linear-gradient(#023020,#00FF00);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 400%;
@@ -57,6 +58,6 @@ footer{
     font-size: 15px;
     text-align: center;
 }
-footer a{
+a{
     color:white;
 }

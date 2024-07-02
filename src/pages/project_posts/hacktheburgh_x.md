@@ -9,7 +9,7 @@ lastUpdated: "2024-07-02"
 
 # <span class="text-gradient">HouseLink</span>
 
-## Initial Idea
+## Idea
 We came up with this idea a couple of days before HackTheBurgh X, a 24hr hackathon at the University of Edinburgh
 
 ## Development

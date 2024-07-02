@@ -9,7 +9,7 @@ lastUpdated: "2024-07-01"
 
 # This <span class="text-gradient">Website</span>
 
-## Initial Idea
+## Idea
 I nicked the idea off a friend in September 2022, I recommend checking out his <a href="https://www.sanamorii.com">site</a> when you're done here!
 
 ## Development

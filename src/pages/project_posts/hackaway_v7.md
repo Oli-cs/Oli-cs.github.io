@@ -8,9 +8,9 @@ lastUpdated: "2024-07-02"
 ---
 
 # Mansion <span class="text-gradient">Escape</span>
-We came up with this idea at the beginning of Hackaway v7, a 24hr hackathon at Royal Holloway University London 
 
-## Initial Idea
+## Idea
+We came up with this idea at the beginning of Hackaway v7, a 24hr hackathon at Royal Holloway University London 
 
 ## Development
 

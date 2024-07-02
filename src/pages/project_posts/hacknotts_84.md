@@ -7,10 +7,10 @@ pubDate: "2024-07-02"
 lastUpdated: "2024-07-02"
 ---
 
-# Massive Machine Retro Revelry
+# Massive Machine <span class="text-gradient">Retro Revelry</span>
 
 ## Initial Idea
-We came up with this idea at the beginning of HackNotts '84, a 24hr hackathon at the University of Nottingham. 
+We came up with this idea at the beginning of HackNotts '84, a 24hr hackathon at the University of Nottingham
 
 ## Development
 

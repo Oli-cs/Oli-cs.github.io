@@ -7,9 +7,10 @@ pubDate: "2024-07-02"
 lastUpdated: "2024-07-02"
 ---
 
-# HouseLink
+# <span class="text-gradient">HouseLink</span>
 
 ## Initial Idea
+We came up with this idea a couple of days before HackTheBurgh X, a 24hr hackathon at the University of Edinburgh
 
 ## Development
 

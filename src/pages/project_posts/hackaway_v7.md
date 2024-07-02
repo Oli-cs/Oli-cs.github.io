@@ -14,5 +14,5 @@ lastUpdated: "2024-07-02"
 ## Development
 
 ## Links
-Click <a href="">here</a> to see the GitHub repository
-Click <a href="">here</a> to see the Devpost submission
+Click <a href="https://github.com/oli-cs/Hackaway-2024-project">here</a> to see the GitHub repository
+Click <a href="https://devpost.com/software/mansion-escape">here</a> to see the Devpost submission

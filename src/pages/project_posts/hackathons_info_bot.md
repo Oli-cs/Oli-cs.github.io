@@ -3,8 +3,8 @@ layout: ../../layouts/Md_Layout.astro
 title: Hackathons Info Bot
 originPage: ../../projects/index.html
 author: Oli
-pubDate: "2024-07-02"
-lastUpdated: "2024-07-02"
+pubDate: "2024-07-03"
+lastUpdated: "2024-07-03"
 ---
 
 # Hackathons <span class="text-gradient">Info Bot</span>

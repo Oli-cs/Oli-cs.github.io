@@ -15,5 +15,6 @@ I had this idea when running for trips and hackathons secretary of <a href="http
 ## Development
 I've written it in python for the time being but I feel like I should write it in rust to get to know the language better. Setting up a discord bot was interesting because the bot doesn't directly interface with my code, discord manages the bot and my code polls an api to ask if there's any jobs waiting for it to process.
 
+
 ## Links
 Click <a href="https://github.com/oli-cs/hackathons-info-bot">here</a> to see the GitHub repository
